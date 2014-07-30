@@ -1,0 +1,27 @@
+
+
+[Dd]ebug/
+[Rr]elease/
+[Oo]bj
+[Bb]in
+*.suo
+*.user
+TestResults/
+build/_debug.ps1
+build/_key.ps1
+############
+## Windows
+############
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+
+packages/
+*.nuspec
+*_debug.ps1
+*_key.ps1
+Service References/
